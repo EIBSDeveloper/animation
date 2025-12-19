@@ -1,0 +1,56 @@
+{
+  "status": 200,
+  "message": "Data Retrieved Successfully",
+  "error_msg": null,
+  "chapters": [
+    {
+      "chapter_code": "CCH-0064/24",
+      "chapter_name": "Different Modes In Python",
+      "chapter_theory_hours": 1,
+      "chapter_practical_hours": 3,
+      "chapter_id": 673,
+      "chapter_status": "Completed",
+      "has_study_doc": true,
+      "has_ppt": true,
+      "has_pdf": true,
+      "has_audio": true,
+      "study_doc_count": 1,
+      "ppt_count": 1,
+      "pdf_count": 1,
+      "audio_count": 3,
+    
+      "ppt_link": [
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/myfile1.ppt",
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/myfile2.ppt"
+      ],
+      "pdf_link": [
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/class1.pdf",
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/class2.pdf"
+      ],
+      "audio_link": [
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/tamil.m4a",
+        "https://github.com/EIBSDeveloper/animation/raw/refs/heads/main/engllish.m4a"
+      ]
+    },
+    {
+      "chapter_code": "CCH-0067/24",
+      "chapter_name": "Variables in Python",
+      "chapter_theory_hours": 0.5,
+      "chapter_practical_hours": 0.5,
+      "chapter_id": 2244,
+      "chapter_status": "Completed",
+      "has_study_doc": false,
+      "has_ppt": false,
+      "has_pdf": false,
+      "has_audio": false,
+      "study_doc_count": 0,
+      "ppt_count": 0,
+      "pdf_count": 0,
+      "audio_count": 0,
+      "study_doc_link": [],
+      "ppt_link": [],
+      "pdf_link": [],
+      "audio_link": []
+    }
+  ]
+}
