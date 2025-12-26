@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": [
+    {
+      "sno": 2,
+      "company_id": 0,
+      "caller_id": 14,
+      "staff_id": 2,
+      "caller_status": 0,
+      "caller_reason": null,
+      "call_start_date": "2025-12-15",
+      "call_end_date": null,
+      "call_start_time": "13:03:40",
+      "call_end_time": "22:00:08",
+      "call_duration": "22:00:08",
+      "latitude": "9.928846",
+      "longitude": "78.140534",
+      "location": "",
+      "call_status": 1,
+      "count_status": 0,
+      "redirected_to": 0,
+      "same_redirect_no": 0,
+      "created_at": "2025-12-15T07:33:40.527Z",
+      "updated_at": "2025-12-15T07:33:40.527Z"
+    },
+    {
+      "sno": 1,
+      "company_id": 0,
+      "caller_id": 13,
+      "staff_id": 2,
+      "caller_status": 0,
+      "caller_reason": null,
+      "call_start_date": "2025-12-12",
+      "call_end_date": null,
+      "call_start_time": "16:14:03",
+      "call_end_time": "12:00:00",
+      "call_duration": "12:00:00",
+      "latitude": "9.925041",
+      "longitude": "78.159331",
+      "location": "",
+      "call_status": 1,
+      "count_status": 0,
+      "redirected_to": 0,
+      "same_redirect_no": 0,
+      "created_at": "2025-12-12T10:44:03.410Z",
+      "updated_at": "2025-12-12T10:44:03.410Z"
+    }
+  ]
+}
