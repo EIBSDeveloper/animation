@@ -1,5 +1,4 @@
-[
-  {
+{
   "status": "success",
   "message": "Support tickets",
   "data": {
@@ -281,5 +280,3 @@
     }
   }
 }
-
-]
