@@ -1,0 +1,219 @@
+{
+  "status": "success",
+  "message": "Ticket details",
+  "data": {
+    "ticket": {
+      "id": 38,
+      "uuid": "SUPT553646",
+      "title": "In quaerat sunt sol",
+      "priority": "low",
+      "status": "closed",
+      "message": "Illo doloremque in m",
+      "attachments": [],
+      "is_closed": true,
+      "can_reply": false,
+      "user": {
+        "id": 52,
+        "name": "Demo User",
+        "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png",
+        "email": "user@qunzo.com"
+      },
+      "created_at": "2025-12-24T06:49:10.000000Z",
+      "updated_at": "2026-01-21T10:56:12.000000Z"
+    },
+    "messages": [
+      {
+        "id": 106,
+        "message": "zdasd",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2025-12-24T06:54:09.000000Z",
+        "created_at_formatted": "24 Dec, 2025 12:54 PM"
+      },
+      {
+        "id": 115,
+        "message": "jhhh...",
+        "attachments": [
+          {
+            "name": "VNNiJHx8nE0PMM9zRuy6.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "rr.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "tt.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "yy.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          }
+        ],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:51:59.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:51 PM"
+      },
+      {
+        "id": 116,
+        "message": "hnn",
+        "attachments": [
+          
+          {
+            "name": "VNNiJHx8nE0PMM9zRuy6.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "rr.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "tt.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "yy.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "VNNiJHx8nE0PMM9zRuy6.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "rr.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "tt.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          },
+          {
+            "name": "yy.jpg",
+            "url": "https://qunzo-lite.tdevs.co/public/global/uploads/images/VNNiJHx8nE0PMM9zRuy6.jpg",
+            "size": 1458977,
+            "type": "jpg"
+          }
+        ],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:07.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 117,
+        "message": "hhhhhhjj",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:13.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 118,
+        "message": "ghhhhhhhhhhhggxhmgdkyuldudfifgghhbbvf",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:22.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 119,
+        "message": "gtgbnbgtujnbvvgtuujjncfryhcddffv bhgcvvgfx vffghhhu",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:35.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 120,
+        "message": "ytrguuhhjyttg. vgddgb. cfhiiytfcvvh",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:44.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 121,
+        "message": "yuugvggggjjggccghujjgssxxzasfjkurewqeg",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:52:54.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:52 PM"
+      },
+      {
+        "id": 122,
+        "message": "vvggggghu",
+        "attachments": [],
+        "user": {
+          "name": "Demo User",
+          "email": "user@qunzo.com",
+          "avatar": "https://qunzo-lite.tdevs.co/public/global/uploads/images/cjkhcoSZ4hriwxGRw2kY.png"
+        },
+        "is_admin": false,
+        "created_at": "2026-01-21T10:53:25.000000Z",
+        "created_at_formatted": "21 Jan, 2026 04:53 PM"
+      }
+    ]
+  }
+}
