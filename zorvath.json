@@ -2,11 +2,11 @@
   "status": 200,
   "message": "Data Retrieved Successfully",
   "data": {
-    "App name": "Class Name",
-    "play_store_id":"com.eapl.classmate",    
+    "App name": "Zorvath Texh",
+    "play_store_id":"com.zorvath.tech.zorvath_mobile_app",    
     "apple_id":"id6756341379",
-    "android": "1.0.10",
-    "android_build": 23,
+    "android": "1.0.1",
+    "android_build": 2,
     "ios": "1.0.12",
     "ios_build": 25
   }
