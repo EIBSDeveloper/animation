@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "message": "Data Retrieved Successfully",
+  "data": {
+    "App name": "STUDENT BUDDY",
+    "play_store_id":"com.student.buddy.elysium.pro",    
+    "apple_id":"id6756341379",
+    "android": "1.0.2",
+    "android_build": 5,
+    "ios": "1.0.12",
+    "ios_build": 25
+  }
+}
