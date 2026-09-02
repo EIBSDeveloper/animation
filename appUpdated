@@ -1,0 +1,32 @@
+{
+  "eapl": {
+    "name": "EAPL CallerPilot",
+    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/animation/refs/heads/main/RecordPro.apk",
+    "version": "1.0.0",
+    "buildNumber": "1"
+  },
+  "etpl": {
+    "name": "ETPL CallerPilot",
+    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/animation/refs/heads/main/RecordPro.apk",
+    "version": "1.0.0",
+    "buildNumber": "1"
+  },
+  "epro": {
+    "name": "EPRO CallerPilot",
+    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/animation/refs/heads/main/RecordPro.apk",
+    "version": "1.0.0",
+    "buildNumber": "1"
+  },
+  "eibs": {
+    "name": "EIBS CallerPilot",
+    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/animation/refs/heads/main/RecordPro.apk",
+    "version": "1.0.0",
+    "buildNumber": "1"
+  },
+  "egc": {
+    "name": "EGC CallerPilot",
+    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/animation/refs/heads/main/RecordPro.apk",
+    "version": "1.0.0",
+    "buildNumber": "1"
+  }
+}
