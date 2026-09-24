@@ -19,7 +19,7 @@
   },
   "eibs": {
     "name": "EIBS CallerPilot",
-    "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/test4/refs/heads/main/app-release.apk",
+    "baseUrl": "https://dev.elysium.community/training_document/ppt/doc_1790244627_V6HlM7gal4.apk",
     "version": "3.0.0",
     "buildNumber": "1"
   },
