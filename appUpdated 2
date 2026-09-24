@@ -17,7 +17,7 @@
     "version": "3.0.0",
     "buildNumber": "1"
   },
-  "ei bs": {
+  "eibs": {
     "name": "EIBS CallerPilot",
     "baseUrl": "https://raw.githubusercontent.com/EIBSDeveloper/test4/refs/heads/main/app-release.apk",
     "version": "3.0.0",
