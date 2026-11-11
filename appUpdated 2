@@ -19,7 +19,7 @@
   },
   "eibs": {
     "name": "EIBS CallerPilot",
-    "baseUrl": "https://erp.elysium.community/productivity/portals/13/versions/11/download",
+    "baseUrl": "https://erp.elysium.community/productivity/portals/13/versions/12/download",
     "version": "1.0.2",
     "buildNumber": "3"
   },
