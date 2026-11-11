@@ -21,7 +21,7 @@
     "name": "EIBS CallerPilot",
     "baseUrl": "https://erp.elysium.community/productivity/portals/13/versions/12/download",
     "version": "1.0.2",
-    "buildNumber": "8"
+    "buildNumber": "3"
   },
   "eg c": {
     "name": "EGC CallerPilot",
